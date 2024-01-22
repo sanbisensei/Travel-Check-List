@@ -1,4 +1,5 @@
 import './App.css'
+import Countries from './assets/Countries/Countries'
 
 function App() {
 
@@ -7,6 +8,7 @@ function App() {
     <>
       <div>
           <h1>hello gorur dol</h1>
+          <Countries></Countries>
       </div>
     </>
   )
